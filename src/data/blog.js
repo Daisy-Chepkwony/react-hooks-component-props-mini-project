@@ -7,23 +7,23 @@ const blogData = {
   posts: [
     {
       id: 1,
-      title: "Components 101",
-      date: "December 15, 2020",
+      title: "My Projects",
+      date: "January 27, 2023",
       preview: "Setting up the building blocks of your site",
       minutes: 5,
     },
     {
       id: 2,
-      title: "React Data Flow",
-      date: "December 11, 2020",
-      preview: "Passing props is never passé",
+      title: "React Components",
+      date: "January 15, 2023",
+      preview: "Props and Componets",
       minutes: 15,
     },
     {
       id: 3,
-      title: "Function vs Class Components",
-      preview: "React, meet OOJS.",
-      minutes: 47,
+      title: "Components and Props",
+      preview: "React",
+      minutes: 35,
     },
   ],
 };
